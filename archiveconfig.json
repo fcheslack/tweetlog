@@ -1,0 +1,6 @@
+{
+    "DBName": "dbfilename.db",
+    "token": "accessToken",
+    "secret": "accessTokenSecret",
+    "track": ["arrayof", "searchstrings"]
+}
